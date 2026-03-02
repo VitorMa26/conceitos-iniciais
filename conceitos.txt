@@ -1,0 +1,9 @@
+   a) URL: Possui a função de ser um localizador de recursos na web.
+
+   b) HTTP: é a base da comunicação na web, permitindo transferência de dados como imagens e vídeos entre uma pessoa ao servidor.
+  
+   c) TCP: Protocolo responsável por garantir a entrega confiável dos pacotes de dados ao destino. 
+
+   d) IP: Esse protocolo atribui um endereço exclusivo a cada dispositivo conectado à internet, utilizando um sequencia de números para formar uma identificação de cada dispositivo.  
+   
+   e) DNS: tem a função de converter um nome de domínio, como "www.google.com", em um endereço de IP correspondente, eliminando a necessidade de digitar o IP.
